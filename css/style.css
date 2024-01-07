@@ -34,3 +34,27 @@ body {
   font-weight: 900;
   line-height: 95px;
 }
+
+/* discount section */
+.discount {
+  text-align: center;
+  margin-top: 70px;
+  font-family: Inter;
+}
+.discount-title {
+  color: #f00;
+  font-size: 88px;
+  font-weight: 700;
+  margin-bottom: 48px;
+}
+.discount-slogan {
+  color: #f00;
+  font-size: 24px;
+  font-weight: 500;
+}
+.discount-categories {
+  color: #070211;
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 48px;
+}
