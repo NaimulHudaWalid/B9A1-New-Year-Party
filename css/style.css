@@ -151,3 +151,67 @@ body {
   margin-top: 48px;
   cursor: pointer;
 }
+
+/* best-offer section */
+.best-offer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1320px;
+  margin: 120px auto;
+}
+.content-left {
+  padding-right: 70px;
+}
+.content-left .sub-title {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 104px;
+}
+.content-left .title {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+  margin-bottom: 22px;
+}
+.content-left .description {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  margin-bottom: 104px;
+}
+.content-center {
+  border-radius: 463px;
+  border: 15px solid #f00;
+}
+.content-center img {
+  padding: 49px;
+}
+
+.content-right {
+  padding-left: 118px;
+}
+
+.content-right .title {
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 112px;
+}
+.content-right .description {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  margin-bottom: 43px;
+}
+
+.content-right img {
+  margin-right: 136px;
+}
