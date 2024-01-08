@@ -215,3 +215,62 @@ body {
 .content-right img {
   margin-right: 136px;
 }
+
+/* holiday-sale section */
+.holiday-sale {
+  width: 1320px;
+  margin: 0 auto;
+  text-align: center;
+}
+.holiday-sale .pre-title {
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+.holiday-sale .title {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  margin-bottom: 28px;
+}
+.holiday-sale .description {
+  color: rgba(7, 2, 17, 0.6);
+  padding: 0 126px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  margin-bottom: 64px;
+}
+.holiday-sale-image {
+  background-image: url("../resources/Rectangle 1.png");
+  background-repeat: no-repeat;
+  width: 1320px;
+  height: 433px;
+  border-radius: 16px 16px 0px 0px;
+  background-position: right;
+  position: relative;
+}
+.holiday-sale-image .discount-logo {
+  position: absolute;
+  right: 286px;
+  top: 86px;
+  z-index: 1;
+}
+
+.holiday-sale-image .gift-box {
+  position: absolute;
+  left: 0;
+  top: 0px;
+}
+.red-bg {
+  background-image: url("../resources/Rectangle 2.png");
+  background-repeat: no-repeat;
+  width: 1320px;
+  height: 229px;
+  border-radius: 16px 0px 16px 16px;
+
+  background-position: bottom;
+}
