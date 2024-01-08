@@ -245,7 +245,7 @@ body {
   margin-bottom: 64px;
 }
 .holiday-sale-image {
-  background-image: url("../resources/Rectangle 1.png");
+  background-image: url("../resources/Rectangle\ 1.png");
   background-repeat: no-repeat;
   width: 1320px;
   height: 433px;
@@ -266,11 +266,24 @@ body {
   top: 0px;
 }
 .red-bg {
-  background-image: url("../resources/Rectangle 2.png");
+  background-image: url("../resources/Rectangle\ 2.png");
   background-repeat: no-repeat;
   width: 1320px;
   height: 229px;
   border-radius: 16px 0px 16px 16px;
 
   background-position: bottom;
+}
+
+/* portfolio section */
+.portfolio {
+  width: 1320px;
+  margin: 120px auto;
+}
+.portfolio-pre-title {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 16px;
 }
