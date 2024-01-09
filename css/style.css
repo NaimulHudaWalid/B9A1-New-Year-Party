@@ -311,9 +311,9 @@ section {
   transition: 0.5s ease-in-out;
 }
 .portfolio .image-container .row img:hover {
-  rotate: 5deg;
-  scale: 1.2;
-  transition: 0.5s ease-in-out;
+  rotate: 3deg;
+  scale: 1.3;
+  transition: 0.3s ease-in-out;
 }
 
 /* newsletter section */
@@ -452,9 +452,9 @@ footer {
   gap: 24px;
 }
 .footer-icons .icons a:hover {
-  scale: 1.5;
+  scale: 1.6;
   rotate: 360deg;
-  transition: 0.4s ease-in-out;
+  transition: 0.3s ease-in-out;
 }
 
 .footer-bottom {
